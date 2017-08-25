@@ -1,2 +1,3 @@
 # hello-world
-This is my learning journey
+This is my EDITTED learning journey
+This is how I will make an app
